@@ -1,1 +1,1 @@
-# LandingPage
+This is a project proposed by The Odin Project course. In this project, I'll create a landing page using CSS and HTML in order to improve flexbox and git manageament skills.
